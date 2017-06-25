@@ -1,0 +1,10 @@
+---
+slug: :burontsan
+depends:
+  mikutter: 3.5.8
+  plugin:
+  - command
+version: '1.0'
+author: 
+name: ブロントさん
+description: メイン盾
