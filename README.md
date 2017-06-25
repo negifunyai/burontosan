@@ -1,12 +1,13 @@
 これなに？
 ------
 
-本当につよいやつは中身を口で説明したりはしないからな
-口で説明するくらいならおれはプラグインをインストールするだろうな
-おれプラグインでSEGVとか普通に出すし
+本当につよいやつは中身を口で説明したりはしないからな  
+口で説明するくらいならおれはプラグインをインストールするだろうな  
+おれプラグインでSEGVとか普通に出すし  
 
 インストール？
 ------
 
-``git clone git://github.com/negifunyai/burontsan.git ~/.mikutter/plugin/``
+``git clone git://github.com/negifunyai/burontsan.git ~/.mikutter/plugin/``  
 このコマンドによってリアル生活よりも充実したトゥイッター生活が認可される
+
